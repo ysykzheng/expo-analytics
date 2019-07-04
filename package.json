@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ryanvanderpol/expo-analytics.git"
+    "url": "git+https://github.com/ysykzheng/expo-analytics.git"
   },
   "keywords": [
     "react",
