@@ -31,6 +31,8 @@ export default class Analytics {
                     console.log(`[expo-analytics] UserAgent=${userAgent}`);
                     console.log(`[expo-analytics] Additional parameters=`, this.parameters);
                 }
+            }).catch(e =>{
+                console.log(e.message);
             });
     }
 
